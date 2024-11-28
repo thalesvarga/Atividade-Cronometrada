@@ -1,4 +1,4 @@
-![Atividade Cronometrada](img/ProjetoAtividadeCronometrada.png)
+![Atividade Cronometrada](imagens/ProjetoAtividadeCronometrada.png)
 
 
 # Resumo do Projeto
